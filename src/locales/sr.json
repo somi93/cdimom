@@ -1,0 +1,22 @@
+{
+  "layout": {
+    "menu": {
+      "about": "O Nama",
+      "services": "Usluge",
+      "projects": "Projekti",
+      "gallery": "Galerija",
+      "career": "Karijera",
+      "contact": "Kontakt"
+    }
+  },
+  "home": {
+    "slider": {
+      "title": "Mi gradimo poverenje"
+    },
+    "about": {
+      "title": "Zašto da izaberete Nas?",
+      "description": "Završnim radovima u građevinarstvu bavimo se od samog osnivanja kompanije, dakle više od sedam decenija. Mi smo i osnovani kao preduzeće za molersko-farbarske radove, pre nego što smo počeli da poslovanje širimo na bojenje fasada, izolaterske radove, antikorozivnu zaštitu, izgradnju objekata. Danas je teško proći pored nekog od objekata u Beogradu od velikog kulturnog i istorijskog značaja, a da naši majstori nisu radili na njegovom osvežavanju. Od zgrade Narodne skupštine, starog Generalštaba, Kapetan Mišinog zdanja, Sava centra, Univerzitetske biblioteke „Svetozar Marković“…",
+      "history": "Istorija naše kompanije"
+    }
+  }
+}

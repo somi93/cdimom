@@ -1,0 +1,22 @@
+{
+  "layout": {
+    "menu": {
+      "about": "About",
+      "services": "Services",
+      "projects": "Projects",
+      "gallery": "Gallery",
+      "career": "Career",
+      "contact": "Contact"
+    }
+  },
+  "home": {
+    "slider": {
+      "title": "We build trust"
+    },
+    "about": {
+      "title": "Why us?",
+      "description": "We have been dealing with finishing works in construction since the very foundation of the company, that is, for more than seven decades. We were founded as a company for painting and painting works, before we started to expand our business to painting facades, insulating works, anti-corrosion protection, construction of buildings. Today, it is difficult to pass by any of the buildings in Belgrade of great cultural and historical importance, without our craftsmen working on its refreshment. From the building of the National Assembly, the old General Staff, the Captain Miša Building, the Sava Center, the \"Svetozar Marković\" University Library...",
+      "history": "History of our company"
+    }
+  }
+}
